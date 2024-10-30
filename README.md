@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Venkat Kolasani 👋
 
-<!--
-**Venkat-Kolasani/Venkat-Kolasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🎓 I'm currently studying at SRM University,AP (2023 - 2027).
+- 🌱 I’m learning Full Stack Development, including technologies like JavaScript, React, Node.js, Express, MongoDB and more.
+- 🔒 I have a strong interest in Cyber Security and am preparing for the CompTIA Security+ certification.
+- 🚀 I'm exploring new technologies and always looking to expand my skill set.
+- 🤝 I’m looking to collaborate on web development and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+
+[![LinkedIn](https://www.linkedin.com/in/kolasani-venkat/)
+
+
+<!-- Add more sections as needed -->
