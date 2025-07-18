@@ -15,7 +15,9 @@ Welcome to my GitHub profile! Here's a little about me:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Venkat0WCW/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolasanivenkat2@gmail.com)
-[![Website]](venkatkolasani.xyz)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://venkatkolasani.xyz)
+[![Blogs](https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=Hashnode&logoColor=white)](https://blog.venkatkolasani.xyz)
+
 
 
 <!-- Add more sections as needed -->
