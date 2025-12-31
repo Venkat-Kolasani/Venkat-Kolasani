@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 - 🎓 I'm currently studying at SRM University,AP (2023 - 2027).
 -    I’m learning Full Stack Development, including technologies like TypeScript, React, Node.js, Express, MongoDB and more.
-- 🏆 #2 in TechXcelerate Hackathon under Open Innovation Category [BITS Hyderabad Edition]
+- 🏆 #2 in TechXcelerate Hackathon under Open Innovation Category [BITS Hyderabad Edition).
 - 🌟 Finalist in NxtWave x OpenAI Buildathon [Andhra Pradesh State Level] and Hack With Hyderabad hosted at Microsoft Office, Hyderabad
 - 🚀 I'm exploring new technologies and always looking to expand my skill set.
 - 🤝 I’m looking to collaborate on web development and AIML projects.
