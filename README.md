@@ -13,8 +13,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kolasani-venkat/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.venkatkolasani.in/)
-[![Blogs](https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=Hashnode&logoColor=white)](https://blog.venkatkolasani.xyz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Venkat0WCW/)
+[![Blogs](https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=Hashnode&logoColor=white)](https://medium.com/@kolasanivenkat)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkat@venkatkolasani.in)
 
 
